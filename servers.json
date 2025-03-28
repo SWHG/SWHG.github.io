@@ -60,6 +60,6 @@
   "cache": "https://servers.sidestore.io/servers.json.hash"
 },
 {
-    "name": "SWHG-Renew",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "SWHG-Renew",
     "address": "https://swhg-renew.onrender.com"
 }
